@@ -1,0 +1,5 @@
+Login page:
+  Swaglablogo:  "//div[@class='login_logo']"
+  UserNamefield: "//input[@id='user-name']"
+  Passwordfield: "//input[@id='password']"
+  LoginButton: "//input[@id='login-button']"

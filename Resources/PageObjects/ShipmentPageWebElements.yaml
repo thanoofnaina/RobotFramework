@@ -1,0 +1,12 @@
+ShippingAddressPage:
+  first_name: "//input[@id='first-name']"
+  last_name: "//input[@id='last-name']"
+  postalcode: "//input[@id='postal-code']"
+  CancelButton: "//button[@id='cancel']"
+  ContinueButton: "//input[@id='continue']"
+
+
+ShippingConfirmPage:
+  PageTitle: "//span[@class='title']"
+  Footer: "//footer[@class='footer']"
+  FinishButton: "//*[@id='finish']"

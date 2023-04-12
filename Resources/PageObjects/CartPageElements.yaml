@@ -1,0 +1,3 @@
+CartPage:
+  ProductInCart: "//div[normalize-space()='Sauce Labs Backpack']"
+  checkoutButton: "//button[@id='checkout']"
